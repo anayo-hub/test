@@ -1,2 +1,2 @@
 # test
-a basic learning repository
+a basic learning repository for git and merging of github including upsteam
