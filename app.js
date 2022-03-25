@@ -9,11 +9,3 @@ console.log('i\'m suffering and happy the same time ahh!');
 }else{
     console.log('ewu ofia');
 }
-
-let age = 20;
-    
-    
-
-for (let i = 0; i < cars.length; i++) {
-  text += cars[i] + "<br>";
-}
