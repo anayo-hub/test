@@ -8,6 +8,7 @@ let a = 2;
 if(a < 2){
 console.log('i\'m suffering and happy the same time ahh!');
 }else{
+<<<<<<< HEAD
 
     console.log('ewu ofida');
 }
@@ -16,3 +17,7 @@ console.log('i\'m suffering and happy the same time ahh!');
     
     
 
+=======
+    console.log('ewu ofia');
+}
+>>>>>>> hublot
